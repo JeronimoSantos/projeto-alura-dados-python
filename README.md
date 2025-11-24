@@ -41,7 +41,7 @@ python -m venv .venv
     source .venv/bin/activate
 ```
 
-3. Instalar as Dependências
+### 3. Instalar as Dependências
 Com o ambiente ativo, instale todas as bibliotecas necessárias listadas no arquivo requirements.txt:
 
 ```
